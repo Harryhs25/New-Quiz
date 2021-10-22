@@ -30,6 +30,8 @@ Unfixed Bugs
 - No errors wee returned when passing through the official W3C validator
 (CSS)
 - No errors wee returned when passing through the official (Jigsaw) validator 
+(JavaScript) 
+- Some errors did pop up when i validated my code using JSHint.com as I am using extensions like ATOM (I presume this was the cause of the error) I couldn't figure out how to fix this though as i tried removing and reastablishing my extensions. But nothing seemed to work. There were no other errors besides the extension errors though.
 
 # Deployment
 The site was deloyed to github pages. The steps to deploy are as follows:
