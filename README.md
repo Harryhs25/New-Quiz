@@ -42,5 +42,6 @@ The site was deloyed to github pages. The steps to deploy are as follows:
 The live link can be found here: https://chief.harryhs25.repl.co
 # Credit
 # Content
-- A lot of bug fixes came from W3 Schools and a Youtube account called Nerd's Lesson
-- Another youtuber that did help with a lot of my code was Brian Design. 
+- A lot of bug fixes came from W3 Schools https://www.w3schools.com/
+- A Youtube account called Nerd's Lesson https://www.youtube.com/channel/UCyFWoLmPTgZ3BkHIKMRSV1g
+- Another youtuber that did help with a lot of my code was Brian Design. https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A
