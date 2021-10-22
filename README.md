@@ -43,3 +43,4 @@ The live link can be found here: https://chief.harryhs25.repl.co
 # Credit
 # Content
 - A lot of bug fixes came from W3 Schools and a Youtube account called Nerd's Lesson
+- Another youtuber that did help with a lot of my code was Brian Design. 
